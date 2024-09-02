@@ -1,0 +1,6 @@
+langserve[all]
+langchain
+langchain_openai
+langchainhub
+faiss-cpu
+fastapi
