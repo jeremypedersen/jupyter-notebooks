@@ -1,3 +1,6 @@
+- **Last Updated:** 2024-09-02
+- **Last Tested:** PENDING
+
 # jupyter-notebooks
 
 A collection of Jupyter Notebooks I have written to help myself practice. A lot of the are AI/ML focused but some focus on other things (web crawling, data analysis).
